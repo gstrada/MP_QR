@@ -10,7 +10,7 @@ class mercadoPagoQR
 
     function __construct()
     {
-        $this->notification_url = "https://b36f7bdbfde7abce01aced3c79fe3c55.m.pipedream.net";
+        $this->notification_url = "https://prueba-qr.herokuapp.com/webhook.php";
         $this->access_token = 'TEST-5335523335867115-081901-d96ef94cf38a35d008d3992b85438774-112835613';
         $this->public_key = 'TEST-64eb9d26-7f53-4566-b6e3-3430f2e9e424';
         $this->user_id = '112835613';

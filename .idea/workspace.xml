@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc2f102-09ce-497f-874b-b12190c6eab9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/QR.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webhook.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cobrar.php" beforeDir="false" afterPath="$PROJECT_DIR$/cobrar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mercadoPagoQR.php" beforeDir="false" afterPath="$PROJECT_DIR$/mercadoPagoQR.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +42,30 @@
       <workItem from="1597838998618" duration="605000" />
       <workItem from="1597880337746" duration="2976000" />
       <workItem from="1597884782322" duration="5534000" />
-      <workItem from="1598139083312" duration="10475000" />
+      <workItem from="1598139083312" duration="11760000" />
     </task>
+    <task id="LOCAL-00001" summary="Pagina de qr">
+      <created>1598156517467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598156517467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pagina de qr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pagina de qr" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1671" y="0" key="CommitChangelistDialog2" timestamp="1598156512006">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1671" y="0" key="CommitChangelistDialog2/0.0.1366.736/1366.0.1360.768/-1280.44.1280.720@1366.0.1360.768" timestamp="1598156512006" />
     <state x="1924" y="282" key="Github.ShareDialog" timestamp="1598155931974">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
@@ -58,13 +74,17 @@
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
     <state x="1906" y="89" key="Github.UntrackedFilesDialog/0.0.1366.736/1366.0.1360.768/-1280.44.1280.720@1366.0.1360.768" timestamp="1598155945980" />
-    <state x="1880" y="307" key="NewPhpFileDialog" timestamp="1598156209127">
+    <state x="1880" y="307" key="NewPhpFileDialog" timestamp="1598157815372">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
-    <state x="1880" y="307" key="NewPhpFileDialog/0.0.1366.736/1366.0.1360.768/-1280.44.1280.720@1366.0.1360.768" timestamp="1598156209127" />
+    <state x="1880" y="307" key="NewPhpFileDialog/0.0.1366.736/1366.0.1360.768/-1280.44.1280.720@1366.0.1360.768" timestamp="1598157815372" />
     <state x="1547" y="29" key="SettingsEditor" timestamp="1597884701487">
       <screen x="1366" y="0" width="1360" height="768" />
     </state>
     <state x="1547" y="29" key="SettingsEditor/0.0.1366.736/1366.0.1360.768/-1280.44.1280.720@1366.0.1360.768" timestamp="1597884701487" />
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2" timestamp="1598156521133">
+      <screen x="1366" y="0" width="1360" height="768" />
+    </state>
+    <state x="1638" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.736/1366.0.1360.768/-1280.44.1280.720@1366.0.1360.768" timestamp="1598156521133" />
   </component>
 </project>
