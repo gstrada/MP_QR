@@ -8,4 +8,8 @@ $monto = $_POST['cuenta'];
 
 $order = $mp->crearOrden($monto);
 
-print_r($order);
+if ($order) {
+
+    header('Location: '.'https://prueba-qr.herokuapp.com/QR.php');
+
+}
